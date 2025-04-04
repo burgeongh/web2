@@ -1,0 +1,30 @@
+.Big{
+  color: #7AC751;
+  font-family: sans-serif;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 26px;
+  letter-spacing: 5%;
+  margin: 0;
+  
+}
+
+p{
+  display: block;
+}
+
+.Gigantic{
+  font-family: sans-serif;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 100%;
+  margin: 0
+}
+
+.Gray_big{
+  font-weight: 600;
+  font-size: 27px;
+  line-height: 26px;
+  color: #515151B5;
+  margin: 0
+}

@@ -1,0 +1,26 @@
+.logo{
+  height: 50px;
+}
+
+.zoom{
+  height: 20px;
+  transition: 400ms;
+}
+
+.settings-img{
+  height: 30px;
+  
+}
+
+.lightbulb{
+  height: 37px;
+  transform-origin: top center;
+  animation: HangingAnimation infinite 3s ease-in-out
+  
+}
+
+.chair{
+  height: 450px;
+  transform-origin: top center;
+  animation: HangingAnimation infinite 3s ease-in-out
+}
